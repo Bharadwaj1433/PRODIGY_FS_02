@@ -33,19 +33,19 @@ The project enables authenticated admins to manage employee records securely usi
 
 📌 **Screens Included:**
 - Login/Register
-- ![image](https://github.com/user-attachments/assets/37e658ed-3f58-47bf-8367-8c40d93706c4)
+![image](https://github.com/user-attachments/assets/37e658ed-3f58-47bf-8367-8c40d93706c4)
 - Dashboard
-- ![image](https://github.com/user-attachments/assets/ce02284f-cb4d-4189-be4e-b672c7c1e503)
+![image](https://github.com/user-attachments/assets/ce02284f-cb4d-4189-be4e-b672c7c1e503)
 - Add/Edit Employee
-- ![image](https://github.com/user-attachments/assets/43052a9e-82a7-4dad-8899-4e55c81c0d63)
-- ![image](https://github.com/user-attachments/assets/2d92f2b3-e55f-4f47-ba69-40fcf0911ad6)
+![image](https://github.com/user-attachments/assets/43052a9e-82a7-4dad-8899-4e55c81c0d63)
+![image](https://github.com/user-attachments/assets/2d92f2b3-e55f-4f47-ba69-40fcf0911ad6)
 - View Employee List and Employee details
-- ![image](https://github.com/user-attachments/assets/9c41a25e-7d11-47e9-8d99-51aae40b099b)
-- ![image](https://github.com/user-attachments/assets/d5ba813e-084c-4955-bb45-20fc9baf7707)
+![image](https://github.com/user-attachments/assets/9c41a25e-7d11-47e9-8d99-51aae40b099b)
+![image](https://github.com/user-attachments/assets/d5ba813e-084c-4955-bb45-20fc9baf7707)
 - User profile
-- ![image](https://github.com/user-attachments/assets/5f7297f4-d081-4187-94b3-79aec4566a60)
+![image](https://github.com/user-attachments/assets/5f7297f4-d081-4187-94b3-79aec4566a60)
 - Settings
-- ![image](https://github.com/user-attachments/assets/8278d418-d101-485d-802b-4e3c274f6cd5)
+![image](https://github.com/user-attachments/assets/8278d418-d101-485d-802b-4e3c274f6cd5)
 
 
 ---
