@@ -16,8 +16,8 @@ The project enables authenticated admins to manage employee records securely usi
 
 ## 🔗 Live Project
 
-🌐 **Project Website:** [Click Here to Visit](https://your-deployment-link.com)  
-_(Replace with your actual deployed URL – e.g., Vercel, Netlify, Render, etc.)_
+🌐 **Project Website:** [Click Here to Visit]https://prodigy-fs-02-chi.vercel.app/()  
+
 
 ---
 
@@ -35,8 +35,9 @@ _(Replace with your actual deployed URL – e.g., Vercel, Netlify, Render, etc.)
 - Login/Register
 - Dashboard
 - Add/Edit Employee
-- View Employee List
-- 404 & Unauthorized Pages
+- View Employee List and Employee details
+- User profile
+- Settings
 
 ---
 
