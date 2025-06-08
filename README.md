@@ -16,7 +16,7 @@ The project enables authenticated admins to manage employee records securely usi
 
 ## 🔗 Live Project
 
-🌐 **Project Website:** [Click Here to Visit]https://prodigy-fs-02-chi.vercel.app/()  
+🌐 **Project Website:** [Click Here to Visit](https://prodigy-fs-02-chi.vercel.app/)  
 
 
 ---
